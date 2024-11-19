@@ -76,6 +76,9 @@ Run the project by running the following command in the assessments directory:
 
 # Success screenshots
 When you run your project and then hit the get endpoint to controller, we see a 200 response.
+<img width="1680" alt="GET_Call_to_Controller" src="https://github.com/user-attachments/assets/c528f0b3-f896-4905-9287-8d2c01796083">
 
 
 When the project internally calls the GET endpoint of Hubspot api, gets the records, transforms them and then hits the POST endpoint with the final data, we see a success message 'Results submitted successfully!' at the end indicating a 200 response.
+<img width="1680" alt="POST_data_with_success_message" src="https://github.com/user-attachments/assets/d136f89b-471f-4bfd-ad22-fdb2de32c991">
+
